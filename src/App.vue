@@ -103,7 +103,7 @@
       <div class="card-image bg-green-100">
         <img
           class="object-cover w-full h-72 md:h-96"
-          src="./assets/Web Design - Beverages.jpeg"
+          src="./assets/Web Design-Beverages.jpeg"
         />
       </div>
     </div>
